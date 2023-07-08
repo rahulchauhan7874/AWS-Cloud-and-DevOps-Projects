@@ -11,5 +11,7 @@ Step-4 : Create a Route Table.
 
 Step-5 : Attach Internet Gateway with default VPC
 
-Step-6 : 
+Step-6 : Attach VPC with this route table and also associate Subnet
+
+Now Create a EC2 Instance and check that Instance has been created successfully or not...
 
